@@ -1,1 +1,1 @@
-# Highest-Lowest_Earning_Degress
+# Highest-Lowest_Earning_Degrees
